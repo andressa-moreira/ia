@@ -1,20 +1,20 @@
 export const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Assim que saiu da escola você se depara com um livro misterioso, um livro que consegue te levar para o passado, e ele também pode te levar para o futuro.Qual o primeiro pensamento?",
         alternativas: [
             {
                 texto: "Isso é assustador!",
                 afirmacao: [
-                    "No início ficou com medo do que essa tecnologia pode fazer.",
-                    "Achou assustador pensar na velocidade na qual a tecnologia está avançando."
+                    "No início ficou com medo do que esse livro podia fazer.",
+                    "Achou assustador pensar em viajar no tempo  atráves de um livro."
                 ],
                 proxima: 1,
             },
             {
                 texto: "Isso é maravilhoso!",
                 afirmacao: [
-                    "Quis saber como usar IA no seu dia a dia.",
-                    "Pensou que IA pode ajudar em tarefas da sua vida."
+                    "Quis saber como usar o livro.",
+                    "Pensou que o livro pode ajudar a voltar em sua vida passada."
                 ],
                 proxima: 2,
             },
